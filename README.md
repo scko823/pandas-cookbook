@@ -1,3 +1,4 @@
+Hello. This is a forked repo from jvns which is a introduction to pandas, for which I will add my own comments so I can use this as a guide for using pandas
 Pandas cookbook
 ===============
 
